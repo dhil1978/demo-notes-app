@@ -23,6 +23,7 @@
   ],
   "dependencies": {
     "aws-sdk": "^2.1348.0",
+    "stripe": "^11.17.0",
     "uuid": "^9.0.0"
   }
 }
